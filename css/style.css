@@ -840,7 +840,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(200, 200, 200, 0.5);
+  background: rgba(200, 200, 200, 0.7);
   z-index: 9;
 }
 
