@@ -15,7 +15,7 @@
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: #18d26e; 
+    background: #18d26e;
 }
 
 body{
@@ -840,7 +840,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(200, 200, 200, 0.7);
+  background: rgba(75, 75, 75, 0.81);
   z-index: 9;
 }
 
@@ -862,7 +862,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 0 20px 0;
   font-family: "Montserrat", sans-serif;
   font-size: 14px;
-  color: #111;
+  color: rgba(255, 255, 255, 0.6);
 }
 
 #facts .facts-img {
